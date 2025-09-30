@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723875855807",
+    "project_id": "basicauth-55564",
+    "storage_bucket": "basicauth-55564.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723875855807:android:724ec5f0de2e43849db50a",
+        "android_client_info": {
+          "package_name": "com.example.basicauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Blvtb7S5CkteE7_wqeDPGEw0QXxp70k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
